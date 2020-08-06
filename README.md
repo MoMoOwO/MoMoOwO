@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👨‍🎓 Hi! I'm MoMo! (●'◡'●)
 
-<!--
-**MoMoOwO/MoMoOwO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/-@MoMoOwO-%23181717?style=flat-square&logo=github)](https://github.com/MoMoOwO)
 
-Here are some ideas to get you started:
+前端开发者，Vue 爱好者 💖
+- 好奇心强 🔍
+- 敢于拼搏 💪
+- 一直在努力着 ✍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Status
+
+[![MoMoOwO's github stats](https://github-readme-stats.vercel.app/api?username=MoMoOwO&show_icons=true&theme=tokyonight)](https://github.com/MoMoOwO)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoMoOwO&layout=compact&theme=tokyonight)](https://github.com/MoMoOwO)
+
+## Contact me
+
+- 📧 Email: strangersj@outlook.com
+- 🐧 QQ: 995135886
