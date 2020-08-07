@@ -15,6 +15,8 @@
 
 ---
 
+📊 **Weekly development breakdown**
+
 <!--START_SECTION:waka-->
 ```text
 Week: 30 July, 2020 - 06 August, 2020
