@@ -16,6 +16,15 @@
 ---
 
 <!--START_SECTION:waka-->
+```text
+Week: 30 July, 2020 - 06 August, 2020
+
+Markdown     11 hrs 35 mins  ██████████████████░░░░░░░   72.07 % 
+SCSS         3 hrs           ████░░░░░░░░░░░░░░░░░░░░░   18.68 % 
+CSS          33 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+HTML         17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+JavaScript   15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+```
 <!--END_SECTION:waka-->
 
 ## Contact me
