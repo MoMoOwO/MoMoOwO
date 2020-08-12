@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/-@MoMoOwO-%23181717?style=flat-square&logo=github)](https://github.com/MoMoOwO)
 
-前端开发者，Vue 爱好者 💖
+前端开发者，JavaScript 爱好者 💖
 - 好奇心强 🔍
 - 敢于拼搏 💪
 - 一直在努力着 ✍
