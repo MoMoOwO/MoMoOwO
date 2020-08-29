@@ -19,13 +19,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 August, 2020 - 27 August, 2020
+Week: 21 August, 2020 - 28 August, 2020
 
-JavaScript   5 hrs 32 mins   ███████████████░░░░░░░░░░   60.05 % 
-Markdown     3 hrs 36 mins   █████████▓░░░░░░░░░░░░░░░   39.12 % 
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-C++          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+JavaScript   5 hrs 20 mins   █████████████░░░░░░░░░░░░   51.69 % 
+Markdown     4 hrs 55 mins   ████████████░░░░░░░░░░░░░   47.71 % 
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 <!--END_SECTION:waka-->
 
