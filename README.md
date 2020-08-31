@@ -19,10 +19,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 August, 2020 - 29 August, 2020
+Week: 23 August, 2020 - 30 August, 2020
 
-JavaScript   6 hrs 11 mins   ██████████████░░░░░░░░░░░   56.10 % 
-Markdown     4 hrs 50 mins   ███████████░░░░░░░░░░░░░░   43.88 % 
+JavaScript   5 hrs 42 mins   █████████████▓░░░░░░░░░░░   54.06 % 
+Markdown     4 hrs 50 mins   ███████████▒░░░░░░░░░░░░░   45.91 % 
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 <!--END_SECTION:waka-->
