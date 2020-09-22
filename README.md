@@ -19,10 +19,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 September, 2020 - 20 September, 2020
+Week: 14 September, 2020 - 21 September, 2020
 
-JavaScript   1 hr 55 mins    ██████████████████░░░░░░░   71.72 % 
-Markdown     45 mins         ███████░░░░░░░░░░░░░░░░░░   28.28 % 
+JavaScript   1 hr 54 mins    █████████████████▓░░░░░░░   70.85 % 
+Markdown     47 mins         ███████▒░░░░░░░░░░░░░░░░░   29.15 % 
 ```
 <!--END_SECTION:waka-->
 
