@@ -19,10 +19,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 September, 2020 - 25 September, 2020
+Week: 19 September, 2020 - 26 September, 2020
 
-Markdown     2 hrs 1 min     █████████████████████░░░░   84.49 % 
-JavaScript   22 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Markdown     4 hrs 11 mins   █████████████████████████   99.84 % 
 ```
 <!--END_SECTION:waka-->
 
