@@ -19,11 +19,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 September, 2020 - 01 October, 2020
+Week: 25 September, 2020 - 02 October, 2020
 
-Markdown     10 hrs 5 mins   █████████████████████▓░░░   86.47 % 
-JavaScript   1 hr 33 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Markdown     10 hrs 3 mins   ████████████████████▓░░░░   83.32 % 
+JavaScript   1 hr 59 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
 
