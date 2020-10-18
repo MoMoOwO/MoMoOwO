@@ -19,10 +19,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 October, 2020 - 16 October, 2020
+Week: 10 October, 2020 - 17 October, 2020
 
-Markdown     1 hr 16 mins    ████████████████████████░   96.02 % 
-JavaScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Markdown     2 hrs 14 mins   █████████████████████████   99.95 % 
 ```
 <!--END_SECTION:waka-->
 
