@@ -19,13 +19,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 October, 2020 - 18 October, 2020
+Week: 12 October, 2020 - 19 October, 2020
 
-Markdown     2 hrs 24 mins   █████████████████░░░░░░░░   68.62 % 
-Vue.js       47 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.71 % 
-JavaScript   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-Other        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Markdown     2 hrs 24 mins   ███████████████▓░░░░░░░░░   62.59 % 
+Vue.js       1 hr 8 mins     ███████▒░░░░░░░░░░░░░░░░░   29.51 % 
+JavaScript   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Other        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 <!--END_SECTION:waka-->
 
