@@ -19,12 +19,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 November, 2020 - 09 November, 2020
+Week: 03 November, 2020 - 10 November, 2020
 
-Markdown     57 mins         ████████████▓░░░░░░░░░░░░   50.06 % 
-Vue.js       40 mins         ████████▓░░░░░░░░░░░░░░░░   35.04 % 
-JavaScript   11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-HTML         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Vue.js       51 mins         ██████████▓░░░░░░░░░░░░░░   42.67 % 
+JavaScript   45 mins         █████████▒░░░░░░░░░░░░░░░   37.87 % 
+Markdown     23 mins         █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
 ```
 <!--END_SECTION:waka-->
 
