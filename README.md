@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 November, 2020 - 20 November, 2020
+Week: 14 November, 2020 - 21 November, 2020
 
 JavaScript   2 hrs 3 mins    ██████████████████████▓░░   91.27 % 
 Vue.js       11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
