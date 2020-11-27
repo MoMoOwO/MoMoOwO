@@ -29,8 +29,8 @@ JavaScript   3 hrs 25 mins   ████████▒░░░░░░░░
 ## Contact me
 
 - 📧 Email: strangersj@outlook.com
-- 🐧 QQ: 
+- 🐧 QQ:  
   ![995135886](https://i.loli.net/2020/11/27/Yx6eDSQi34Va5IA.jpg)
-- 💭 WeChat:
+- 💭 WeChat:  
   ![WeChat](https://i.loli.net/2020/11/27/wWX6uVoIQqig5KP.jpg)
   
