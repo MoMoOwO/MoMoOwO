@@ -19,10 +19,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2020 - 04 January, 2021
+Week: 29 December, 2020 - 05 January, 2021
 
-Vue.js       2 hrs 41 mins   ████████████████████████░   95.51 % 
-JavaScript   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Vue.js   47 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
