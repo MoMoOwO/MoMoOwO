@@ -19,7 +19,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 05 January, 2021 - 12 January, 2021
+
+Vue.js       38 mins         ███████████████▓░░░░░░░░░   63.17 % 
+JavaScript   12 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.30 % 
+CSS          9 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
 ```
 <!--END_SECTION:waka-->
 
