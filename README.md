@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 January, 2021 - 15 January, 2021
+Week: 09 January, 2021 - 16 January, 2021
 
-Vue.js       3 hrs 33 mins   ██████████▒░░░░░░░░░░░░░░   40.86 % 
-JavaScript   2 hrs 40 mins   ███████▓░░░░░░░░░░░░░░░░░   30.81 % 
-JSON         2 hrs 18 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.53 % 
-CSS          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Vue.js       3 hrs 53 mins   ██████████▓░░░░░░░░░░░░░░   43.00 % 
+JavaScript   2 hrs 40 mins   ███████▒░░░░░░░░░░░░░░░░░   29.67 % 
+JSON         2 hrs 18 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.55 % 
+CSS          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 ```
 <!--END_SECTION:waka-->
 
