@@ -19,11 +19,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 January, 2021 - 21 January, 2021
+Week: 15 January, 2021 - 22 January, 2021
 
-Vue.js       4 hrs 35 mins   ██████████████████▓░░░░░░   74.46 % 
-JavaScript   1 hr 25 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.02 % 
-JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Vue.js   3 hrs 33 mins   █████████████████████████   99.89 % 
 ```
 <!--END_SECTION:waka-->
 
