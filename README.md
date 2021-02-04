@@ -19,10 +19,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 January, 2021 - 02 February, 2021
+Week: 27 January, 2021 - 03 February, 2021
 
-Vue.js   3 hrs 17 mins   ████████████████████████▒   96.73 % 
-HTML     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Vue.js   3 hrs 31 mins   ████████████████████████▒   96.94 % 
+HTML     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 ```
 <!--END_SECTION:waka-->
 
