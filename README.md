@@ -19,9 +19,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 February, 2021 - 24 February, 2021
+Week: 18 February, 2021 - 25 February, 2021
 
-Vue.js   8 mins          █████████████████████████   100.00 % 
+Vue.js   12 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
