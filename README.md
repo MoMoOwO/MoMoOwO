@@ -19,9 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 March, 2021 - 11 March, 2021
-
-JavaScript   3 mins          █████████████████████░░░░   84.07 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
