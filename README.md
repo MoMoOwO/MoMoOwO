@@ -19,7 +19,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 05 April, 2021 - 12 April, 2021
+
+Vue.js       28 mins         ████████████████████████▒   97.66 % 
 ```
 <!--END_SECTION:waka-->
 
