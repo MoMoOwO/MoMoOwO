@@ -19,10 +19,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 April, 2021 - 13 April, 2021
+Week: 07 April, 2021 - 14 April, 2021
 
-Vue.js       34 mins         ██████████████████▒░░░░░░   73.62 % 
-JavaScript   11 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.87 % 
+Vue.js       3 hrs 59 mins   ██████████████████████▓░░   90.58 % 
+JavaScript   24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
 ```
 <!--END_SECTION:waka-->
 
