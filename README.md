@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 April, 2021 - 22 April, 2021
+Week: 16 April, 2021 - 23 April, 2021
 
 Vue.js       2 hrs 13 mins   █████████████████▓░░░░░░░   70.09 % 
 JavaScript   57 mins         ███████▒░░░░░░░░░░░░░░░░░   29.91 % 
