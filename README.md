@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 April, 2021 - 01 May, 2021
+Week: 25 April, 2021 - 02 May, 2021
 
 Vue.js       59 mins         ████████████▓░░░░░░░░░░░░   50.77 % 
 JSON         42 mins         █████████▒░░░░░░░░░░░░░░░   36.79 % 
