@@ -19,9 +19,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 May, 2021 - 11 May, 2021
+Week: 05 May, 2021 - 12 May, 2021
 
-Vue.js   16 mins         █████████████████████████   100.00 % 
+Vue.js   14 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
