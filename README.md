@@ -19,11 +19,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 May, 2021 - 25 May, 2021
+Week: 19 May, 2021 - 26 May, 2021
 
-Vue.js                     1 hr 23 mins    ███████████████░░░░░░░░░░   59.57 % 
-Markdown                   29 mins         █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-JavaScript                 27 mins         █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+Vue.js                     59 mins         ███████████████░░░░░░░░░░   59.71 % 
+Markdown                   29 mins         ███████▒░░░░░░░░░░░░░░░░░   29.30 % 
+JavaScript                 10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
 ```
 <!--END_SECTION:waka-->
 
