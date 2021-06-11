@@ -19,12 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 June, 2021 - 09 June, 2021
-
-Vue.js       2 hrs 7 mins    ██████████████████████▓░░   91.30 % 
-JavaScript   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Markdown     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
