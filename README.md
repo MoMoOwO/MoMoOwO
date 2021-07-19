@@ -19,7 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 12 July, 2021 - 18 July, 2021
+
+Vue.js       1 hr 43 mins    ███████████████████░░░░░░   76.46 % 
+HTML         15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+JavaScript   13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Markdown     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 ```
 <!--END_SECTION:waka-->
 
