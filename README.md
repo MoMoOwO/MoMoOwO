@@ -19,12 +19,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 July, 2021 - 21 July, 2021
+Week: 16 July, 2021 - 22 July, 2021
 
-Vue.js       5 hrs 22 mins   ████████████████████▒░░░░   81.69 % 
-JavaScript   59 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Vue.js       5 hrs 21 mins   ███████████████████▒░░░░░   76.79 % 
+JavaScript   1 hr 26 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.72 % 
+Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 ```
 <!--END_SECTION:waka-->
 
