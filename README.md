@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 August, 2021 - 09 August, 2021
+Week: 04 August, 2021 - 10 August, 2021
 
 Vue.js       1 hr 43 mins    ██████████████░░░░░░░░░░░   55.94 % 
 JavaScript   1 hr 5 mins     ████████▓░░░░░░░░░░░░░░░░   35.33 % 
