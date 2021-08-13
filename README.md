@@ -19,11 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 August, 2021 - 11 August, 2021
+Week: 06 August, 2021 - 12 August, 2021
 
-Vue.js       1 hr 59 mins    ████████████████▒░░░░░░░░   65.44 % 
-JavaScript   47 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.74 % 
-Markdown     15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Vue.js       1 hr 55 mins    ████████████████████░░░░░   80.13 % 
+Markdown     15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+JavaScript   9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+HTML         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 <!--END_SECTION:waka-->
 
