@@ -19,13 +19,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 August, 2021 - 03 September, 2021
+Week: 31 August, 2021 - 06 September, 2021
 
-Vue.js       2 hrs 5 mins    █████████████▓░░░░░░░░░░░   55.24 % 
-Markdown     1 hr 14 mins    ████████▒░░░░░░░░░░░░░░░░   33.00 % 
-HTML         14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-JavaScript   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Vue.js       2 hrs 51 mins   ████████████▒░░░░░░░░░░░░   49.58 % 
+Markdown     1 hr 27 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.26 % 
+JavaScript   41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+HTML         33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+CSS          11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 ```
 <!--END_SECTION:waka-->
 
