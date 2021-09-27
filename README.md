@@ -19,9 +19,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 September, 2021 - 25 September, 2021
+Week: 20 September, 2021 - 26 September, 2021
 
-HTML       14 mins         █████████████████████████   99.90 % 
+HTML       41 mins         █████████████▒░░░░░░░░░░░   53.09 % 
+Markdown   37 mins         ███████████▓░░░░░░░░░░░░░   46.91 % 
 ```
 <!--END_SECTION:waka-->
 
