@@ -19,10 +19,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 October, 2021 - 31 October, 2021
+Week: 26 October, 2021 - 01 November, 2021
 
-HTML       13 mins         ██████████████▒░░░░░░░░░░   57.30 % 
-Markdown   10 mins         ██████████▓░░░░░░░░░░░░░░   42.70 % 
+Markdown   9 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
