@@ -19,7 +19,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 20 November, 2021 - 26 November, 2021
+
+Markdown   8 mins          ██████████████▒░░░░░░░░░░   57.55 % 
+HTML       6 mins          ██████████▓░░░░░░░░░░░░░░   42.45 % 
 ```
 <!--END_SECTION:waka-->
 
