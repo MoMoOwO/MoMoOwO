@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 December, 2021 - 24 December, 2021
+Week: 19 December, 2021 - 25 December, 2021
 
 Vue.js       20 hrs 32 mins  ██████████████████░░░░░░░   71.69 % 
 Markdown     4 hrs 52 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.01 % 
