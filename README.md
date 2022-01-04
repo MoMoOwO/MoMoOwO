@@ -19,13 +19,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 December, 2021 - 02 January, 2022
+Week: 28 December, 2021 - 03 January, 2022
 
-Vue.js       20 hrs 2 mins   ██████████████████▒░░░░░░   73.41 % 
-Markdown     4 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-JavaScript   2 hrs 58 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-JSON         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-CSS          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Vue.js       17 hrs 48 mins  ██████████████████▓░░░░░░   74.40 % 
+JavaScript   3 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Markdown     2 hrs 47 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+CSS          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 <!--END_SECTION:waka-->
 
