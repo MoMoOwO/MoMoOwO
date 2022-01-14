@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 January, 2022 - 12 January, 2022
+Week: 07 January, 2022 - 13 January, 2022
 
-Vue.js       18 hrs 59 mins  █████████████████████▒░░░   85.47 % 
-JavaScript   2 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-LESS         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-CSS          23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Vue.js       22 hrs 23 mins  █████████████████████░░░░   84.04 % 
+JavaScript   3 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+LESS         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+CSS          23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 ```
 <!--END_SECTION:waka-->
 
