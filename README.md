@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 January, 2022 - 26 January, 2022
+Week: 21 January, 2022 - 27 January, 2022
 
 Vue.js       2 hrs 54 mins   ████████████▓░░░░░░░░░░░░   51.16 % 
 JavaScript   2 hrs 33 mins   ███████████▒░░░░░░░░░░░░░   44.91 % 
