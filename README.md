@@ -19,11 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 January, 2022 - 04 February, 2022
-
-JavaScript   9 mins          ████████████▒░░░░░░░░░░░░   48.78 % 
-Vue.js       5 mins          ████████░░░░░░░░░░░░░░░░░   31.41 % 
-CSS          3 mins          █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
