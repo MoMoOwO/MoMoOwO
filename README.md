@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 17 February, 2022 - To: 24 February, 2022
+From: 19 February, 2022 - To: 26 February, 2022
 
-Vue.js       14 hrs 58 mins  ███████████████████████▒░   93.59 % 
-JavaScript   56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-LESS         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Vue.js       12 hrs 37 mins  ███████████████████████░░   91.76 % 
+JavaScript   48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+LESS         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 <!--END_SECTION:waka-->
 
