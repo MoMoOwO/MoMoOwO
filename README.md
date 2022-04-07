@@ -20,11 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 March 2022 - To: 05 April 2022
+From: 30 March 2022 - To: 06 April 2022
 
-Vue.js       20 hrs 47 mins  ███████████████████████░░   91.35 %
-JavaScript   58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
-Other        58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+Vue.js       20 hrs 4 mins   ████████████████████████░   96.01 %
+JavaScript   33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->
