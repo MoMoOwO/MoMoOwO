@@ -20,10 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 June 2022 - To: 23 June 2022
+From: 17 June 2022 - To: 24 June 2022
 
-Vue.js       25 hrs 8 mins   ███████████████████████▒░   93.64 %
-Other        55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Vue.js       24 hrs 36 mins  ███████████████████████▒░   93.56 %
+JavaScript   56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Other        45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
 ```
 
 <!--END_SECTION:waka-->
