@@ -20,9 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 August 2022 - To: 14 August 2022
+From: 08 August 2022 - To: 15 August 2022
 
-Other        7 mins          █████████████████████▒░░░   85.48 %
+TypeScript   2 hrs 10 mins   ██████████████▓░░░░░░░░░░   58.43 %
+JavaScript   1 hr 4 mins     ███████▒░░░░░░░░░░░░░░░░░   28.77 %
+JSON         20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+Vue.js       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
