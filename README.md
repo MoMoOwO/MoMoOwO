@@ -20,12 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 October 2022 - To: 27 October 2022
+From: 21 October 2022 - To: 28 October 2022
 
-Vue.js       13 mins         ██████████████████▒░░░░░░   73.63 %
-JavaScript   2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 %
-Markdown     2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Markdown     39 mins         ███████████████░░░░░░░░░░   59.90 %
+HTML         26 mins         ██████████░░░░░░░░░░░░░░░   39.84 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
