@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 November 2022 - To: 18 November 2022
+From: 12 November 2022 - To: 19 November 2022
 
-Vue.js       7 hrs 37 mins   ████████████████▓░░░░░░░░   66.70 %
-HTML         2 hrs 21 mins   █████░░░░░░░░░░░░░░░░░░░░   20.66 %
-JavaScript   52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-Markdown     33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Vue.js       10 hrs 34 mins  █████████████████░░░░░░░░   68.10 %
+HTML         3 hrs 13 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.80 %
+JavaScript   1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+Markdown     35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
