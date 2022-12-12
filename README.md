@@ -20,14 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 December 2022 - To: 10 December 2022
+From: 04 December 2022 - To: 11 December 2022
 
-JavaScript   5 hrs 24 mins   ████████████▒░░░░░░░░░░░░   49.63 %
-Vue.js       2 hrs 48 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.68 %
-Markdown     2 hrs 22 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.70 %
-HTML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-CSS          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+JavaScript   4 hrs 25 mins   ████████████▒░░░░░░░░░░░░   49.61 %
+Vue.js       2 hrs 48 mins   ████████░░░░░░░░░░░░░░░░░   31.44 %
+Markdown     1 hr 22 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
+HTML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+CSS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
