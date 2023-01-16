@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 January 2023 - To: 14 January 2023
+From: 08 January 2023 - To: 15 January 2023
 
 Vue.js       15 hrs 43 mins  █████████████████████░░░░   84.65 %
 JavaScript   2 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
