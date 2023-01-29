@@ -20,7 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 21 January 2023 - To: 28 January 2023
+
+Vue.js       2 hrs 42 mins   █████████████████▒░░░░░░░   69.81 %
+JavaScript   48 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
+Markdown     22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
 ```
 
 <!--END_SECTION:waka-->
