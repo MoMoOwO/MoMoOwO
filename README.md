@@ -20,11 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 March 2023 - To: 08 March 2023
+From: 02 March 2023 - To: 09 March 2023
 
-Vue.js       11 hrs 25 mins  █████████████████▒░░░░░░░   69.51 %
-JavaScript   4 hrs 28 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.28 %
-Markdown     31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Vue.js       10 hrs 11 mins  ██████████████████▓░░░░░░   75.00 %
+JavaScript   3 hrs 4 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.64 %
+Markdown     19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
