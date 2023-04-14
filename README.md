@@ -20,10 +20,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 April 2023 - To: 12 April 2023
+From: 06 April 2023 - To: 13 April 2023
 
-Vue.js       8 hrs 11 mins   ███████████████████▓░░░░░   78.25 %
-JavaScript   2 hrs 16 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.75 %
+Vue.js       6 hrs 40 mins   ██████████████████▓░░░░░░   74.28 %
+JavaScript   2 hrs 18 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.72 %
 ```
 
 <!--END_SECTION:waka-->
