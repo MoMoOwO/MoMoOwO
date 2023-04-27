@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 April 2023 - To: 25 April 2023
+From: 19 April 2023 - To: 26 April 2023
 
-Vue.js       9 hrs 13 mins   ████████████████░░░░░░░░░   64.42 %
-JavaScript   4 hrs 12 mins   ███████▒░░░░░░░░░░░░░░░░░   29.37 %
-JSON         37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-HTML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Vue.js       7 hrs 44 mins   ███████████████░░░░░░░░░░   59.91 %
+JavaScript   4 hrs 17 mins   ████████▒░░░░░░░░░░░░░░░░   33.22 %
+JSON         37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+HTML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
