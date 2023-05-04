@@ -20,10 +20,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 April 2023 - To: 02 May 2023
+From: 26 April 2023 - To: 03 May 2023
 
-Vue.js       41 mins         ██████████████████████░░░   87.70 %
-JavaScript   5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
+Vue.js   23 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
