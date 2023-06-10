@@ -20,12 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2023 - To: 08 June 2023
+From: 02 June 2023 - To: 09 June 2023
 
-Vue.js       13 hrs 36 mins  ██████████████▒░░░░░░░░░░   57.94 %
-TypeScript   9 hrs 4 mins    █████████▓░░░░░░░░░░░░░░░   38.63 %
-HTML         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Vue.js       14 hrs 29 mins  ██████████████▒░░░░░░░░░░   57.58 %
+TypeScript   10 hrs 37 mins  ██████████▓░░░░░░░░░░░░░░   42.20 %
+JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
