@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2023 - To: 17 August 2023
+From: 11 August 2023 - To: 18 August 2023
 
-TypeScript   6 hrs 35 mins   █████████████░░░░░░░░░░░░   52.44 %
-HTML         3 hrs 34 mins   ███████░░░░░░░░░░░░░░░░░░   28.44 %
-Vue.js       2 hrs 16 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.08 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TypeScript       5 hrs 14 mins   ███████████▓░░░░░░░░░░░░░   46.02 %
+HTML             3 hrs 14 mins   ███████░░░░░░░░░░░░░░░░░░   28.45 %
+Vue.js           2 hrs 41 mins   ██████░░░░░░░░░░░░░░░░░░░   23.66 %
+Other            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+ActionScript 3   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
