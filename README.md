@@ -20,12 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2023 - To: 07 September 2023
+From: 01 September 2023 - To: 08 September 2023
 
-TypeScript       24 hrs 40 mins  ██████████████████████░░░   88.00 %
-Vue.js           2 hrs 41 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
-JavaScript       34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-JSON             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+TypeScript       27 hrs 58 mins  █████████████████████▓░░░   86.38 %
+Vue.js           3 hrs 42 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+JavaScript       34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+JSON             7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ca65 assembler   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
