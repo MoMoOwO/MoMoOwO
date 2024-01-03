@@ -20,12 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2023 - To: 01 January 2024
+From: 26 December 2023 - To: 02 January 2024
 
-TypeScript   12 hrs 20 mins  ████████████▓░░░░░░░░░░░░   50.55 %
-Vue.js       10 hrs 54 mins  ███████████░░░░░░░░░░░░░░   44.66 %
-SCSS         58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-JavaScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Vue.js       12 hrs 26 mins  █████████████▒░░░░░░░░░░░   53.26 %
+TypeScript   9 hrs 54 mins   ██████████▓░░░░░░░░░░░░░░   42.38 %
+SCSS         58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
