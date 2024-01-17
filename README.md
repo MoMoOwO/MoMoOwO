@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 January 2024 - To: 15 January 2024
+From: 09 January 2024 - To: 16 January 2024
 
-Vue.js       15 hrs 35 mins  ████████████░░░░░░░░░░░░░   48.64 %
-TypeScript   15 hrs 4 mins   ███████████▓░░░░░░░░░░░░░   47.02 %
-SCSS         54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-JSON         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-JavaScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+TypeScript   19 hrs 19 mins  ████████████████░░░░░░░░░   63.47 %
+Vue.js       10 hrs 5 mins   ████████▒░░░░░░░░░░░░░░░░   33.14 %
+SCSS         33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+JSON         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+JavaScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
