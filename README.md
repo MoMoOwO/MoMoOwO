@@ -20,10 +20,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2024 - To: 11 February 2024
+From: 05 February 2024 - To: 12 February 2024
 
-Vue.js       5 hrs 49 mins   ████████████████████░░░░░   79.46 %
-TypeScript   1 hr 30 mins    █████░░░░░░░░░░░░░░░░░░░░   20.54 %
+Vue.js       4 hrs 3 mins    █████████████████████▒░░░   85.06 %
+TypeScript   42 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
 ```
 
 <!--END_SECTION:waka-->
