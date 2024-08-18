@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2024 - To: 16 August 2024
+From: 10 August 2024 - To: 17 August 2024
 
 JavaScript   23 hrs 3 mins   ███████████████▒░░░░░░░░░   61.99 %
 JSON         5 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 %
