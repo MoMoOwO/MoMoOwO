@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2025 - To: 17 April 2025
+From: 11 April 2025 - To: 18 April 2025
 
-Vue.js       18 hrs 41 mins  ████████████▓░░░░░░░░░░░░   50.36 %
-TypeScript   14 hrs 29 mins  █████████▓░░░░░░░░░░░░░░░   39.05 %
-JSON         2 hrs 56 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-SCSS         52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-YAML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Vue.js       19 hrs 38 mins  █████████████▒░░░░░░░░░░░   53.36 %
+TypeScript   12 hrs 57 mins  ████████▓░░░░░░░░░░░░░░░░   35.24 %
+JSON         3 hrs 28 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
+SCSS         36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
