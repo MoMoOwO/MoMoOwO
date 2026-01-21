@@ -20,13 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2026 - To: 19 January 2026
+From: 13 January 2026 - To: 20 January 2026
 
-Vue.js       21 hrs 13 mins  ██████████████████▓░░░░░░   74.99 %
-JavaScript   6 hrs 34 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.23 %
-SCSS         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-JSON         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Vue.js       15 hrs 40 mins  ███████████████████░░░░░░   75.84 %
+JavaScript   4 hrs 29 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.73 %
+SCSS         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
