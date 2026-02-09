@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2026 - To: 07 February 2026
+From: 01 February 2026 - To: 08 February 2026
 
 Vue.js       23 hrs 52 mins  ██████████████████░░░░░░░   72.65 %
 JavaScript   8 hrs 32 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.98 %
