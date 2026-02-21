@@ -20,11 +20,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2026 - To: 19 February 2026
+From: 13 February 2026 - To: 20 February 2026
 
-Vue.js       4 hrs 12 mins         ████████████████████▓░░░░   82.22 %
-JavaScript   54 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.65 %
-SCSS         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
