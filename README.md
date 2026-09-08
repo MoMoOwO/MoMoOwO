@@ -20,11 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2026 - To: 06 September 2026
+From: 31 August 2026 - To: 07 September 2026
 
-Vue          17 hrs 59 mins        ████████████████████████▒   97.35 %
-JavaScript   27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-SCSS         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Vue          14 hrs 17 mins        ███████████████████████▓░   94.85 %
+JavaScript   29 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+CSS          11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Other        4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+INI          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
